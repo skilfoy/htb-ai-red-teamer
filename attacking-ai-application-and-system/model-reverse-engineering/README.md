@@ -62,4 +62,3 @@ print({
 
 The successful run returned an evaluator accuracy of **0.9817518248175182 (98.18%)** and an acceptance token. The token is omitted from this public writeup. The score is a single external evaluation of one unseeded query set; later runs can differ. It establishes predictive agreement on the evaluator's test set without establishing recovery of the original model parameters.
 
-The [module notebook](https://github.com/skilfoy/htb-ai-red-teamer/tree/main/attacking-ai-application-and-system) will develop this experiment within a broader analysis of application and system attack surfaces.
